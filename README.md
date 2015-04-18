@@ -41,13 +41,12 @@ Now go back to your terminal, make sure you are in the `angularjs-leaderboard-fi
 Tour de App
 -----------
 Let's take a quick look at what the app does.
-
 #### The Index View
 The index page is where we show all of our data.
-<img alt="index" src="https://cloud.githubusercontent.com/assets/9245381/7214703/69f82450-e56c-11e4-82ad-5e00ba26ada3.png" style="width: 750px; height: 275px">
+<img alt="index" src="https://cloud.githubusercontent.com/assets/9245381/7214725/8f939022-e56d-11e4-81fd-997f571145a3.png" style="width: 750px; height: 279px">
 #### The Admin View
 The admin page is where we can CRUD (Create Read Update Delete) our data.
 <img alt="admin" src="https://cloud.githubusercontent.com/assets/9245381/7214704/6c20dd62-e56c-11e4-9c81-b26c819d3d50.png" style="width: 750px; height: 367px">
 #### The Remote View
-The remote page is where the realtime component becomes important. Here, we can choose a contestant and then update their score. [Click here](http://www.screencast.com/t/NsodHlrFFRd) to see a realtime demo.
-<img alt="remote" src="https://cloud.githubusercontent.com/assets/9245381/7214705/7076b9e0-e56c-11e4-8aad-5c01a57e706a.png" style="width: 750px; height: 284px">
+The remote page is where the realtime component becomes important. Here, we can choose a contestant and then update their score. [Click here](http://www.screencast.com/t/wb4yDJIMalq1) to see a realtime demo.
+<img alt="remote" src="https://cloud.githubusercontent.com/assets/9245381/7214728/a404b806-e56d-11e4-9097-6f289d8c79a6.png" style="width: 750px; height: 293px">
