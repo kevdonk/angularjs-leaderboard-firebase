@@ -44,15 +44,11 @@ Let's take a quick look at what the app does.
 
 #### The Index View
 The index page is where we show all of our data.
-![leader-index](https://cloud.githubusercontent.com/assets/590361/7207118/ff576d66-e4eb-11e4-9483-dfabc901e837.png)
-
+<img alt="index" src="https://cloud.githubusercontent.com/assets/9245381/7214613/ec605452-e568-11e4-8a4e-13a1ede75f8a.png" style="width: 750px; height: 360px;">
 #### The Admin View
 The admin page is where we can CRUD (Create Read Update Delete) our data.
-![leader-admin](https://cloud.githubusercontent.com/assets/590361/7207146/28802502-e4ec-11e4-855e-14a6066a79c1.png)
-
+<img alt="admin" src="https://cloud.githubusercontent.com/assets/9245381/7214615/f8211fc4-e568-11e4-82d6-9cdbdf15d4ed.png" style="width: 750px; height: 481px;">
 #### The Remote View
-The remote page is where the realtime component becomes important. Here, we can choose a contestant and then update their score. [Click here](http://www.screencast.com/t/2BZGTSH3g8) to see a realtime demo.
-![leader-remote](https://cloud.githubusercontent.com/assets/590361/7207461/7729aa8c-e4ee-11e4-8507-8ab60cd83620.png)
-
-
+The remote page is where the realtime component becomes important. Here, we can choose a contestant and then update their score. [Click here](http://www.screencast.com/t/NsodHlrFFRd) to see a realtime demo.
+<img alt="remote" src="https://cloud.githubusercontent.com/assets/9245381/7214617/fc982fac-e568-11e4-9a29-b31a4fa0a46f.png" style="width: 750px; height: 369px;">
 
